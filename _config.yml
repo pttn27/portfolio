@@ -25,7 +25,8 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Thuy Nga Thi Pham
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : https://drive.google.com/file/d/1tlJcydFLsQNJw9oXM7hmS77UGbJbzYiw/view?usp=sharing
+  #https://i.imgur.com/uyDNQnn.jpg
 # behance           : your_username
 # dribbble          : your_username
   email             : phamttnga@posteo.de
@@ -34,7 +35,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : https://www.linkedin.com/in/nga-p-32182219a
+  linkedin          : in/nga-p-32182219a
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
