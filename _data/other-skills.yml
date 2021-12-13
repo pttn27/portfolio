@@ -1,7 +1,22 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: Adobe Illustrator
+  percentage: 70
+  color: success
+
+- name: Figma
+  percentage: 70
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Sketch
+  percentage: 50
+  color: peri
+
+- name: Adobe XD
+  percentage: 40
+  color: warning
+
+- name: Adobe Photoshop
+  percentage: 30
+  color: secondary
+
+
+#  secondary = grau / success = grün / danger = rot / warning = gelb / info = türkis/ light = nichts / dark = schwarz (choose one only, default is primary = blau)

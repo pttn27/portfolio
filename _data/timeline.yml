@@ -1,17 +1,19 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: Media Computer Science, M.Sc., Technical University of Dresden (Germany)
+  from: October 2019
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Focusing on user experience and user interface design
+
+- title: 한국외국어대학교 Hankuk University of Foreign Studies, Seoul (South Korea)
+  from: September 2020
+  to: June 2021
+  description: Studying a year abroad in Seoul taking courses in business management and Korean language & culture
+
+- title: Working student for audio editing at Lingo Lab
+  from: June 2020
+  to: September 2020
+  description: Snipping and editing audio files to update an speech development app 
+
+- title: Media Computer Science, B.Sc., Technical University of Dresden (Germany)
+  from: October 2014
+  to: May 2020
+  description: Completed basic studies in computer science and media related modules focusing on media design
