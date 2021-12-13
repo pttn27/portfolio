@@ -12,7 +12,7 @@ I’m currently studying Media Computer Science at the Technical University Dres
 Through various university projects I’ve learned the basics of media design including UI and UX design but would love to get a deeper understanding of work flows and how to improve my designs. <br>
 I have always admired a great functioning user experience and want to create designs that help people and that they love to use. I cannot wait to work on valuable and real projects :)
 
-{% include elements/button.html link="/assets/CV.pdf" text="Download CV" size="sm" target="_blank" %}
+{% include elements/button.html link="../assets/CV.pdf" text="Download CV" size="sm" target="_blank" %}
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

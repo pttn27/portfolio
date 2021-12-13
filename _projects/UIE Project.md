@@ -4,7 +4,7 @@ tools: [Adobe Illustrator, UI Design, Scenario-based Usability Engineering]
 image: /assets/UIE_ade2.png
 description: This was a university group project in the module called "User Interface Engineering"
 ---
-<!-- ![Title of the project: Smart gadget to foster a healthier lifestyle](/assets/UIE_Projekteintrag.png) -->
+<!-- ![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE_Projekteintrag.png) -->
 ![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE_Projekteintrag_Zeichenfläche 1.png)
 
 ## Background information
@@ -26,9 +26,9 @@ When we brainstormed which aspects a healthy lifestyle compromises, there were m
 ---
 Scenario-based Usability Engineering
 
-<img src="/assets/UIEscenario.png" alt="Scenario-based Usability Engineering flow chart" width="60%"/>
+<img src="../assets/UIEscenario.png" alt="Scenario-based Usability Engineering flow chart" width="60%"/>
 
-<!-- ![UIEscenario.png](/assets/UIEscenario.png) -->
+<!-- ![UIEscenario.png](../assets/UIEscenario.png) -->
 
 ## Analysis Phase
 ---
@@ -43,22 +43,22 @@ Interviews were held to get a better picture of different user groups. We asked 
 
 ### Stakeholders
 After conducting field studies and interviews, we revisioned our stakeholders and their general group characteristics regarding background, expectations, and preferences. We designed the stakeholder diagram accordingly.
-![Stakeholder Diagram Shopping Experience](/assets/stakeholderdiagram.png)
+![Stakeholder Diagram Shopping Experience](../assets/stakeholderdiagram.png)
 
 ### Personas
 Personas are typically the hypothetical stakeholders, i.e., possible customers in any kind of supermarket. We created three personas with their respective background, expectations, and preferences.
 
 {% capture carousel_images %}
-/assets/PersonaEmma.png
-/assets/PersonaSusan.png
-/assets/PersonaRoger.png
+../assets/PersonaEmma.png
+../assets/PersonaSusan.png
+../assets/PersonaRoger.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
 ### Hierarchical Task Analysis (HTA)
 To analyze specific tasks, the main task of grocery shopping is divided into three subparts: planning the shopping trip, selecting products while in the supermarket, and concluding shopping. A hierarchical listing of the specified tasks can be seen in the image below.
 
-![Hierarchical Task Analysis](/assets/HTA.png)
+![Hierarchical Task Analysis](../assets/HTA.png)
 
 ## Design Phase
 ---
@@ -66,9 +66,9 @@ To analyze specific tasks, the main task of grocery shopping is divided into thr
 The activity design transforms current activities to envision new design ideas. It provides a concrete glimpse of the future that shall be enabled and deliberately focuses on pure functionality. For this, we created problem scenarios that will be transformed into activity design scenarios.
 
 {% capture carousel_images %}
-/assets/ADEmma.png
-/assets/ADSusan.png
-/assets/ADRoger.png
+../assets/ADEmma.png
+../assets/ADSusan.png
+../assets/ADRoger.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
@@ -76,9 +76,9 @@ The activity design transforms current activities to envision new design ideas. 
 Information design scenarios are elaborations of activity scenarios that provide details about the information that the system will provide to users. Those new scenarios involve many complexities and make sense of how users perceive and interpret information.
 
 {% capture carousel_images %}
-/assets/InfDEmma.png
-/assets/InfDSusan.png
-/assets/InfDRoger.png
+../assets/InfDEmma.png
+../assets/InfDSusan.png
+../assets/InfDRoger.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
@@ -90,34 +90,34 @@ The interaction design describes the details of user action and feedback. It spe
 - the responses the system provides to users' actions.
 
 {% capture carousel_images %}
-/assets/IntDEmma.png
-/assets/IntDSusan.png
-/assets/IntDRoger.png
+../assets/IntDEmma.png
+../assets/IntDSusan.png
+../assets/IntDRoger.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
 ### Storyboard
 The storyboard describes how to use the gadget during shopping.
-![Storyboard](/assets/storyboard.png)
+![Storyboard](../assets/storyboard.png)
 
 ## Prototype & Evaluation Phase
 ---
 ### Paper prototype
 We sketched out our low-fidelity prototype and imagined our gadget to like the following:
-![Storyboard](/assets/sketchPrototype.png)
+![Storyboard](../assets/sketchPrototype.png)
 
 ### Screen design prototype
 After further development, our high-fidelity prototype looks like this:
 {% capture carousel_images %}
-/assets/UIEPrototype1.png
-/assets/UIEPrototype2.png
-/assets/UIEPrototype3.png
+../assets/UIEPrototype1.png
+../assets/UIEPrototype2.png
+../assets/UIEPrototype3.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
 ### Physical prototype
 We created our prototype with a lasered boxboard. It can be attached to different objects with a hook-and-loop fastener. A fixed base with the main icons (simulating a smart scanning system) is attached to the knob via magnets. The knob consists out of two parts: a fixed part, where a transparent sheet of plastic could be attached (incl. different paper displays), and a movable part to simulate scrolling.
-![How it looks like in real life](/assets/physicalPrototype.png)
+![How it looks like in real life](../assets/physicalPrototype.png)
 
 ### Usability tests
 **Method:** We chose “Think-Aloud” as a formative empirical method. The user tests were conducted in a laboratory setup. To present the information flows to the user, we follow “Controlled Experiments”. In addition, we used usability inspections to find problems evolving by the usage. The usability tests were conducted by providing the test persons with a basic prototype of the gadget. Since it is just a basic prototype and does not allow proper interaction the collected data is qualitative.
@@ -163,7 +163,7 @@ Improvements that we think could be implemented in the next phases:
 Besides, I think that setting deadlines and communicating effectively and efficiently within the group can help to keep an overview and reduce misunderstandings. An assigned leader who manages and delegates tasks would be beneficial in every group as well.
 
 ---
-For more details and the documentation of the project click [here](/assets/UIE_Team_B-final-doc.pdf){:target="_blank"} and the demonstration video [here](https://drive.google.com/file/d/1Z1Crp5Tbkhn9uvJLXRbBw2laajxLxQhb/view?usp=sharing){:target="_blank"}.
+For more details and the documentation of the project click [here](../assets/UIE_Team_B-final-doc.pdf){:target="_blank"} and the demonstration video [here](https://drive.google.com/file/d/1Z1Crp5Tbkhn9uvJLXRbBw2laajxLxQhb/view?usp=sharing){:target="_blank"}.
 
 <!--
 For the whole documentation of the project click [here](https://drive.google.com/file/d/1txb8SuudHFkJKl-hWmU-Jmuya5ranJPS/view?usp=sharing){:target="_blank"}
