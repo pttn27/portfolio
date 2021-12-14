@@ -1,7 +1,7 @@
 ---
 name: Smart gadget to foster a healthier lifestyle
 tools: [Adobe Illustrator, UI Design, Scenario-based Usability Engineering]
-image: /assets/UIE_ade2.png
+image: ../assets/UIE_ade2.png
 description: This was a university group project in the module called "User Interface Engineering"
 ---
 
