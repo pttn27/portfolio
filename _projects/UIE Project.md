@@ -48,39 +48,48 @@ After conducting field studies and interviews, we revisioned our stakeholders an
 ### Personas
 Personas are typically the hypothetical stakeholders, i.e., possible customers in any kind of supermarket. We created three personas with their respective background, expectations, and preferences.
 
-{% capture carousel_images %}
-../assets/PersonaEmma.png
-../assets/PersonaSusan.png
-../assets/PersonaRoger.png
-{% endcapture %}
-{% include elements/carousel.html %}
+![Persona named Emma](../assets/PersonaEmma.png)
+
+<p>
+    <details>
+        <summary>View more</summary>
+            <img src="../assets/PersonaSusan.png" alt="Persona named Susan"/>
+            <img src="../assets/PersonaRoger.png" alt="Persona named Roger"/>
+    </details>
+</p>
 
 ### Hierarchical Task Analysis (HTA)
 To analyze specific tasks, the main task of grocery shopping is divided into three subparts: planning the shopping trip, selecting products while in the supermarket, and concluding shopping. A hierarchical listing of the specified tasks can be seen in the image below.
 
-![Hierarchical Task Analysis](../assets/HTA.png)
+![Hierarchical Task Analysis Flow Chart](../assets/HTA.png)
 
 ## Design Phase
 ---
 ### Activity design
 The activity design transforms current activities to envision new design ideas. It provides a concrete glimpse of the future that shall be enabled and deliberately focuses on pure functionality. For this, we created problem scenarios that will be transformed into activity design scenarios.
 
-{% capture carousel_images %}
-../assets/ADEmma.png
-../assets/ADSusan.png
-../assets/ADRoger.png
-{% endcapture %}
-{% include elements/carousel.html %}
+![Activity design of Emma](../assets/ADEmma.png)
+
+<p>
+    <details>
+        <summary>View more</summary>
+            <img src="../assets/ADSusan.png" alt="Activity design of Susan"/>
+            <img src="../assets/ADRoger.png" alt="Activity design of Roger"/>
+    </details>
+</p>
 
 ### Information design
 Information design scenarios are elaborations of activity scenarios that provide details about the information that the system will provide to users. Those new scenarios involve many complexities and make sense of how users perceive and interpret information.
 
-{% capture carousel_images %}
-../assets/InfDEmma.png
-../assets/InfDSusan.png
-../assets/InfDRoger.png
-{% endcapture %}
-{% include elements/carousel.html %}
+![Information design of Emma](../assets/InfDEmma.png)
+
+<p>
+    <details>
+        <summary>View more</summary>
+            <img src="../assets/InfDSusan.png" alt="Information design of Susan"/>
+            <img src="../assets/InfDRoger.png" alt="Information design of Roger"/>
+    </details>
+</p>
 
 ### Interaction design
 The interaction design describes the details of user action and feedback. It specifies the action sequences for planning and achieving one or more task goals like conveying what system goals are possible, plans for accomplishing them, and physical actions to execute. Each interaction scenario is a fully-specified design vision:
@@ -89,12 +98,15 @@ The interaction design describes the details of user action and feedback. It spe
 - the actions the users take to interact with the task information, and
 - the responses the system provides to users' actions.
 
-{% capture carousel_images %}
-../assets/IntDEmma.png
-../assets/IntDSusan.png
-../assets/IntDRoger.png
-{% endcapture %}
-{% include elements/carousel.html %}
+![Interaction design of Emma](../assets/IntDEmma.png)
+
+<p>
+    <details>
+        <summary>View more</summary>
+            <img src="../assets/IntDSusan.png" alt="Interaction design of Susan"/>
+            <img src="../assets/IntDRoger.png" alt="Interaction design of Roger"/>
+    </details>
+</p>
 
 ### Storyboard
 The storyboard describes how to use the gadget during shopping.
