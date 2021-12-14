@@ -5,8 +5,9 @@ image: ../assets/UIE_ade2.png
 description: This was a university group project in the module called "User Interface Engineering"
 ---
 
-<!-- ![Title of the project: Smart gadget to foster a healthier lifestyle](/assets/UIE_Projekteintrag.png) -->
+<!-- ![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE_Projekteintrag.png) -->
 ![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE_Projekteintrag1.png)
+<img src="../assets/UIE_Projekteintrag1.png" alt="Title of the project: Smart gadget to foster a healthier lifestyle"/>
 
 ## Background information
 ---
