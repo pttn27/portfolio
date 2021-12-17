@@ -33,7 +33,7 @@ Scenario-based Usability Engineering
 ## Analysis Phase
 ---
 ### Field studies 
-To get a better understanding of supermarket environments, we undertook field studies. We observed that grocery shopping is part of nearly everyone’s life and shops for groceries differ, e.g., in large, offer, quality of products, etc. Also, we classify three kinds of shops: small markets, medium-sized markets, and hypermarkets. In the latter two, people seem to be more stressed. 
+To get a better understanding of supermarket environments, we undertook field studies. We observed that grocery shopping is part of nearly everyone’s life and shops for groceries differ, e.g., in size, offer, quality of products, etc. Also, we classify three kinds of shops: small markets, medium-sized markets, and hypermarkets. In the latter two, people seem to be more stressed. 
 
 ### Interviews
 Interviews were held to get a better picture of different user groups. We asked only a small group of seven users who might not be representative of the overall society. Nonetheless, we were able to determine a few **key findings** to help our project:
