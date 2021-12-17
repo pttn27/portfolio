@@ -2,7 +2,7 @@
 name: Serviceberry
 tools: [Python, TypeScript, Vue, CSS, HTML, JavaScript, Figma, UI Design]
 image: ../assets/SB_Projektbild.png
-description: This is a project run by a two friends and me, currently on hold due to other priorities
+description: This is a project run by two friends and me, currently on hold due to other priorities
 ---
 
 ![Serviceberry](../assets/SB_Titelbild.png)
