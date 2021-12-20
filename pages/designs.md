@@ -7,11 +7,7 @@ weight: 2
 
 ## Designs
 
-![Low-fidelity wireframes 1](../assets/DailyUI001_SignUp.png)
-{% include elements/figure.html image="../assets/DailyUI001_SignUp.png" caption="Mobile screen design of a pet adoption app" %}
-{% include elements/figure.html image="../assets/favicon.ico" caption="Mobile screen design of a pet adoption app" %}
-
 <figure>
-  <img src="../assets/DailyUI001_SignUp.png" alt="Trulli" style="width:100%">
-  <figcaption style="text-align: center;">Mobile screen design of a pet adoption app</figcaption>
+  <img src="../assets/DailyUI001_SignUp.png" alt="Mobile screen design of a pet adoption app">
+  <figcaption style="text-align: center; color: #6c757d;">Mobile screen design of a pet adoption app</figcaption>
 </figure>
