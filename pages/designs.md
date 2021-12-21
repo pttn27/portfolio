@@ -7,7 +7,17 @@ weight: 2
 
 ## Designs
 
+![Mobile screen design of a pet adoption app](../assets/DailyUI001_SignUp.png)
+
+<!--  
 <figure>
   <img src="../assets/DailyUI001_SignUp.png" alt="Mobile screen design of a pet adoption app">
   <figcaption style="text-align: center; color: #6c757d;">Mobile screen design of a pet adoption app</figcaption>
 </figure>
+-->
+
+**What:** Mobile screen design of a pet adoption app
+
+**Why:** As part of the #DailyUI Challenge, this was challenge 001 of 100 to create a sign up page
+
+**How:** Adobe XD using a [UI Kit](https://www.behance.net/gallery/62932019/Pawtastic-UI-Kit-for-Adobe-XD){:target="_blank"} by Meagan Fisher
