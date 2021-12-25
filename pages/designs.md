@@ -20,12 +20,13 @@ weight: 2
 
 **Why:** As part of the #DailyUI Challenge, this was challenge 001 of 100 to create a sign up page
 
-**How:** Adobe XD using a [UI Kit](https://www.behance.net/gallery/62932019/Pawtastic-UI-Kit-for-Adobe-XD){:target="_blank"} by Meagan Fisher, view the prototype in more detail [here](https://xd.adobe.com/view/fdc58c32-f702-4884-bba4-3dd1b8906e9e-a896/)
+**How:** Adobe XD using a [UI Kit](https://www.behance.net/gallery/62932019/Pawtastic-UI-Kit-for-Adobe-XD) by Meagan Fisher; view the prototype in more detail [here](https://xd.adobe.com/view/fdc58c32-f702-4884-bba4-3dd1b8906e9e-a896/)
 
+---
 ![Mobile screen design of a cart checkout of a clothing shop](../assets/DailyUI002_CreditCardCheckout_Dribbble.png)
 
 **What:** Mobile screen design of a cart checkout of a clothing shop
 
 **Why:** As part of the #DailyUI Challenge, this was challenge 002 of 100 to create a credit card checkout
 
-**How:** Adobe XD, view in more detail [here](https://xd.adobe.com/view/e8308e2c-3e1f-4e9b-8703-7defe30ff5e9-bd63/)
+**How:** Adobe XD; view the prototype in more detail [here](https://xd.adobe.com/view/e8308e2c-3e1f-4e9b-8703-7defe30ff5e9-bd63/)

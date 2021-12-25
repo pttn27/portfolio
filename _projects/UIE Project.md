@@ -172,7 +172,7 @@ Improvements that we think could be implemented in the next phases:
 - a more logical menu list, and
 - a clear and simple tutorial.
 
-Besides, I think that setting deadlines and communicating effectively and efficiently within the group can help to keep an overview and reduce misunderstandings. An assigned leader who manages and delegates tasks would be beneficial in every group as well.
+Besides, I think that setting deadlines and communicating effectively and efficiently within the group can help to keep an overview of the project and reduce misunderstandings. An assigned leader who manages and delegates tasks would be beneficial in every group as well.
 
 ---
 For more details and the documentation of the project click [here](../assets/UIE_Team_B-final-doc.pdf){:target="_blank"} and the demonstration video [here](https://drive.google.com/file/d/1Z1Crp5Tbkhn9uvJLXRbBw2laajxLxQhb/view?usp=sharing){:target="_blank"}.
