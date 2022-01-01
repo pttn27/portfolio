@@ -2,17 +2,17 @@
   percentage: 70
   color: warning
 
-- name: Adobe Illustrator
+- name: Sketch
   percentage: 60
-  color: success
+  color: peri
 
 - name: Figma
   percentage: 60
   color: info
 
-- name: Sketch
+- name: Adobe Illustrator
   percentage: 50
-  color: peri
+  color: success
 
 - name: Adobe Photoshop
   percentage: 30
