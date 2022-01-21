@@ -30,3 +30,12 @@ weight: 2
 **Why:** As part of the #DailyUI Challenge, this was challenge 002 of 100 to create a credit card checkout
 
 **How:** Adobe XD; view the prototype in more detail [here](https://xd.adobe.com/view/e8308e2c-3e1f-4e9b-8703-7defe30ff5e9-bd63/)
+
+---
+![Desktop landing page of a recording studio](../assets/DailyUI003_Landing Page.png)
+
+**What:** Desktop landing page of a recording studio
+
+**Why:** As part of the #DailyUI Challenge, this was challenge 003 of 100 to create a landing page
+
+**How:** Adobe XD
