@@ -22,3 +22,10 @@ I have always admired a great functioning user experience and want to create des
 <div class="row">
 {% include about/timeline.html %}
 </div>
+
+## Certificates
+
+{% capture carousel_images %}
+../assets/Coursera UMJRQRCVQJC9.png
+{% endcapture %}
+{% include elements/carousel.html %}

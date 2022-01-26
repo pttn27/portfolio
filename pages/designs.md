@@ -38,4 +38,4 @@ weight: 2
 
 **Why:** As part of the #DailyUI Challenge, this was challenge 003 of 100 to create a landing page
 
-**How:** Adobe XD, [Image credits](https://unsplash.com/photos/PfdyEAD213o)
+**How:** Adobe XD, [Image credit](https://unsplash.com/photos/PfdyEAD213o)
