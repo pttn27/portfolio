@@ -39,3 +39,12 @@ weight: 2
 **Why:** As part of the #DailyUI Challenge, this was challenge 003 of 100 to create a landing page
 
 **How:** Adobe XD, [Image credit](https://unsplash.com/photos/PfdyEAD213o)
+
+---
+![Desktop landing page of a recording studio](../assets/DailyUI004_Calculator.png)
+
+**What:** Mobile screen design of a calculator in light and in dark mode in the style of [claymorphism](https://hype4.academy/articles/design/claymorphism-in-user-interfaces)
+
+**Why:** As part of the #DailyUI Challenge, this was challenge 004 of 100 to create a calculator
+
+**How:** Figma
