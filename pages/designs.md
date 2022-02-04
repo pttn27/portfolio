@@ -48,11 +48,12 @@ weight: 2
 **Why:** As part of the #DailyUI Challenge, this was challenge 004 of 100 to create a calculator
 
 **How:** Figma
+
 ---
 ![Varous app icons](../assets/DailyUI/DailyUI005_AppIcon.png)
 
 **What:** App icons for *Serviceberry* (one of my projects, view it [here](https://pttn27.github.io/portfolio/projects/serviceberry-project)).
 
-**Why:** As part of the #DailyUI Challenge, this was challenge 005 of 100 to create an app icon.
+**Why:** As part of the #DailyUI Challenge, this was challenge 005 of 100 to create an app icon
 
 **How:** Figma
