@@ -1,11 +1,11 @@
 ---
 name: Smart gadget to foster a healthier lifestyle
 tools: [Adobe Illustrator, UI Design, Scenario-based Usability Engineering]
-image: ../assets/UIE_ade2.png
+image: ../assets/UIE/UIE_ade2.png
 description: This was a university group project in the module called "User Interface Engineering"
 ---
 
-![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE_Projekteintrag1.png)
+![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE/UIE_Projekteintrag1.png)
 
 ## Background information
 ---
@@ -26,9 +26,9 @@ When we brainstormed which aspects a healthy lifestyle compromises, there were m
 ---
 Scenario-based Usability Engineering
 
-<img src="../assets/UIEscenario.png" alt="Scenario-based Usability Engineering flow chart" width="60%"/>
+<img src="../assets/UIE/UIEscenario.png" alt="Scenario-based Usability Engineering flow chart" width="60%"/>
 
-<!-- ![UIEscenario.png](../assets/UIEscenario.png) -->
+<!-- ![UIEscenario.png](../assets/UIE/UIEscenario.png) -->
 
 ## Analysis Phase
 ---
@@ -43,51 +43,51 @@ Interviews were held to get a better picture of different user groups. We asked 
 
 ### Stakeholders
 After conducting field studies and interviews, we revisioned our stakeholders and their general group characteristics regarding background, expectations, and preferences. We designed the stakeholder diagram accordingly.
-![Stakeholder Diagram Shopping Experience](../assets/stakeholderdiagram.png)
+![Stakeholder Diagram Shopping Experience](../assets/UIE/stakeholderdiagram.png)
 
 ### Personas
 Personas are typically the hypothetical stakeholders, i.e., possible customers in any kind of supermarket. We created three personas with their respective background, expectations, and preferences.
 
-![Persona named Emma](../assets/PersonaEmma.png)
+![Persona named Emma](../assets/UIE/PersonaEmma.png)
 
 <p>
     <details>
         <summary>View more</summary>
-            <img src="../assets/PersonaSusan.png" alt="Persona named Susan"/>
-            <img src="../assets/PersonaRoger.png" alt="Persona named Roger"/>
+            <img src="../assets/UIE/PersonaSusan.png" alt="Persona named Susan"/>
+            <img src="../assets/UIE/PersonaRoger.png" alt="Persona named Roger"/>
     </details>
 </p>
 
 ### Hierarchical Task Analysis (HTA)
 To analyze specific tasks, the main task of grocery shopping is divided into three subparts: planning the shopping trip, selecting products while in the supermarket, and concluding shopping. A hierarchical listing of the specified tasks can be seen in the image below.
 
-![Hierarchical Task Analysis Flow Chart](../assets/HTA.png)
+![Hierarchical Task Analysis Flow Chart](../assets/UIE/HTA.png)
 
 ## Design Phase
 ---
 ### Activity design
 The activity design transforms current activities to envision new design ideas. It provides a concrete glimpse of the future that shall be enabled and deliberately focuses on pure functionality. For this, we created problem scenarios that will be transformed into activity design scenarios.
 
-![Activity design of Emma](../assets/ADEmma.png)
+![Activity design of Emma](../assets/UIE/ADEmma.png)
 
 <p>
     <details>
         <summary>View more</summary>
-            <img src="../assets/ADSusan.png" alt="Activity design of Susan"/>
-            <img src="../assets/ADRoger.png" alt="Activity design of Roger"/>
+            <img src="../assets/UIE/ADSusan.png" alt="Activity design of Susan"/>
+            <img src="../assets/UIE/ADRoger.png" alt="Activity design of Roger"/>
     </details>
 </p>
 
 ### Information design
 Information design scenarios are elaborations of activity scenarios that provide details about the information that the system will provide to users. Those new scenarios involve many complexities and make sense of how users perceive and interpret information.
 
-![Information design of Emma](../assets/InfDEmma.png)
+![Information design of Emma](../assets/UIE/InfDEmma.png)
 
 <p>
     <details>
         <summary>View more</summary>
-            <img src="../assets/InfDSusan.png" alt="Information design of Susan"/>
-            <img src="../assets/InfDRoger.png" alt="Information design of Roger"/>
+            <img src="../assets/UIE/InfDSusan.png" alt="Information design of Susan"/>
+            <img src="../assets/UIE/InfDRoger.png" alt="Information design of Roger"/>
     </details>
 </p>
 
@@ -98,38 +98,38 @@ The interaction design describes the details of user action and feedback. It spe
 - the actions the users take to interact with the task information, and
 - the responses the system provides to users' actions.
 
-![Interaction design of Emma](../assets/IntDEmma.png)
+![Interaction design of Emma](../assets/UIE/IntDEmma.png)
 
 <p>
     <details>
         <summary>View more</summary>
-            <img src="../assets/IntDSusan.png" alt="Interaction design of Susan"/>
-            <img src="../assets/IntDRoger.png" alt="Interaction design of Roger"/>
+            <img src="../assets/UIE/IntDSusan.png" alt="Interaction design of Susan"/>
+            <img src="../assets/UIE/IntDRoger.png" alt="Interaction design of Roger"/>
     </details>
 </p>
 
 ### Storyboard
 The storyboard describes how to use the gadget during shopping.
-![Storyboard](../assets/storyboard.png)
+![Storyboard](../assets/UIE/storyboard.png)
 
 ## Prototype & Evaluation Phase
 ---
 ### Paper prototype
 We sketched out our low-fidelity prototype and imagined our gadget to like the following:
-![Storyboard](../assets/sketchPrototype.png)
+![Storyboard](../assets/UIE/sketchPrototype.png)
 
 ### Screen design prototype
 After further development, our high-fidelity prototype looks like this:
 {% capture carousel_images %}
-../assets/UIEPrototype1.png
-../assets/UIEPrototype2.png
-../assets/UIEPrototype3.png
+../assets/UIE/UIEPrototype1.png
+../assets/UIE/UIEPrototype2.png
+../assets/UIE/UIEPrototype3.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
 ### Physical prototype
 We created our prototype with a lasered boxboard. It can be attached to different objects with a hook-and-loop fastener. A fixed base with the main icons (simulating a smart scanning system) is attached to the knob via magnets. The knob consists out of two parts: a fixed part, where a transparent sheet of plastic could be attached (incl. different paper displays), and a movable part to simulate scrolling.
-![How it looks like in real life](../assets/physicalPrototype.png)
+![How it looks like in real life](../assets/UIE/physicalPrototype.png)
 
 ### Usability tests
 **Method:** We chose “Think-Aloud” as a formative empirical method. The user tests were conducted in a laboratory setup. To present the information flows to the user, we follow “Controlled Experiments”. In addition, we used usability inspections to find problems evolving by the usage. The usability tests were conducted by providing the test persons with a basic prototype of the gadget. Since it is just a basic prototype and does not allow proper interaction the collected data is qualitative.
@@ -175,7 +175,7 @@ Improvements that we think could be implemented in the next phases:
 Besides, I think that setting deadlines and communicating effectively and efficiently within the group can help to keep an overview of the project and reduce misunderstandings. An assigned leader who manages and delegates tasks would be beneficial in every group as well.
 
 ---
-For more details and the documentation of the project click [here](../assets/UIE_Team_B-final-doc.pdf){:target="_blank"} and the demonstration video [here](https://drive.google.com/file/d/1Z1Crp5Tbkhn9uvJLXRbBw2laajxLxQhb/view?usp=sharing){:target="_blank"}.
+For more details and the documentation of the project click [here](../assets/UIE/UIE_Team_B-final-doc.pdf){:target="_blank"} and the demonstration video [here](https://drive.google.com/file/d/1Z1Crp5Tbkhn9uvJLXRbBw2laajxLxQhb/view?usp=sharing){:target="_blank"}.
 
 <!--
 For the whole documentation of the project click [here](https://drive.google.com/file/d/1txb8SuudHFkJKl-hWmU-Jmuya5ranJPS/view?usp=sharing){:target="_blank"}

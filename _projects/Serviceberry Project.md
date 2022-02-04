@@ -1,11 +1,11 @@
 ---
 name: Serviceberry
 tools: [Python, TypeScript, Vue, CSS, HTML, JavaScript, Figma, UI Design]
-image: ../assets/SB_Projektbild.png
+image: ../assets/Serviceberry/SB_Projektbild.png
 description: This is a project run by two friends and me, currently on hold due to other priorities
 ---
 
-![Serviceberry](../assets/SB_Titelbild.png)
+![Serviceberry](../assets/Serviceberry/SB_Titelbild.png)
 
 ## Background information
 ---
@@ -46,26 +46,26 @@ While developing this application, we want to serve our needs first since we wil
 ### Low-fidelity wireframes
 We quickly constructed numerous wireframes with pen and paper, imagining how we envision our core features to look together and mix-match the elements to satisfy user needs.
 
-![Low-fidelity wireframes 1](../assets/SB_LFP1.png)
-![Low-fidelity wireframes 2](../assets/SB_LFP2.png)
+![Low-fidelity wireframes 1](../assets/Serviceberry/SB_LFP1.png)
+![Low-fidelity wireframes 2](../assets/Serviceberry/SB_LFP2.png)
 
 ### High-fidelity wireframes
 Our high-fidelity screen designs are made in Figma. We are still in the early process, so they might still be inconsistent.
 
 #### Desktop screen designs
 {% capture carousel_images %}
-../assets/SB_DHomeScreen.png
-../assets/SB_DMainCourse.png
-../assets/SB_DRecipeView.png
+../assets/Serviceberry/SB_DHomeScreen.png
+../assets/Serviceberry/SB_DMainCourse.png
+../assets/Serviceberry/SB_DRecipeView.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
 #### Mobile screen designs
-![Serviceberry's Design System](../assets/SB_MobilePrototype.png)
+![Serviceberry's Design System](../assets/Serviceberry/SB_MobilePrototype.png)
 
 The designs can be viewed in detail [here](https://www.figma.com/file/DdXyA5Ja5A3DQvEX1dySGz/Serviceberry?node-id=0%3A1){:target="_blank"}
 
 ### Design System
 We created a design system to guide us when designing to ensure consistency throughout the platforms. It is not completely set yet, there are still variations in logo and font because we are still in the developing phase.
 
-![Serviceberry's Design System](../assets/SB_DesignSystem.png)
+![Serviceberry's Design System](../assets/Serviceberry/SB_DesignSystem.png)

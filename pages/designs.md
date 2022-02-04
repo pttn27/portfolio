@@ -52,7 +52,7 @@ weight: 2
 ---
 ![Varous app icons](../assets/DailyUI/DailyUI005_AppIcon.png)
 
-**What:** App icons for *Serviceberry* (one of my projects, view it [here](https://pttn27.github.io/portfolio/projects/serviceberry-project)).
+**What:** App icons for *Serviceberry* (one of my projects, view it [here](https://pttn27.github.io/portfolio/projects/serviceberry-project))
 
 **Why:** As part of the #DailyUI Challenge, this was challenge 005 of 100 to create an app icon
 
