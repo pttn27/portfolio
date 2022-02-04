@@ -23,7 +23,7 @@ weight: 2
 **How:** Adobe XD using a [UI Kit](https://www.behance.net/gallery/62932019/Pawtastic-UI-Kit-for-Adobe-XD) by Meagan Fisher; view the prototype in more detail [here](https://xd.adobe.com/view/fdc58c32-f702-4884-bba4-3dd1b8906e9e-a896/)
 
 ---
-![Mobile screen design of a cart checkout of a clothing shop](../assets/DailyUI002_CreditCardCheckout_Dribbble.png)
+![Mobile screen design of a cart checkout of a clothing shop](../assets/DailyUI/DailyUI002_CreditCardCheckout_Dribbble.png)
 
 **What:** Mobile screen design of a cart checkout of a clothing shop
 
@@ -32,7 +32,7 @@ weight: 2
 **How:** Adobe XD; view the prototype in more detail [here](https://xd.adobe.com/view/e8308e2c-3e1f-4e9b-8703-7defe30ff5e9-bd63/)
 
 ---
-![Desktop landing page of a recording studio](../assets/DailyUI003_Landing Page.png)
+![Desktop landing page of a recording studio](../assets/DailyUI/DailyUI003_LandingPage.png)
 
 **What:** Desktop landing page of a recording studio
 
@@ -41,10 +41,18 @@ weight: 2
 **How:** Adobe XD, [Image credit](https://unsplash.com/photos/PfdyEAD213o)
 
 ---
-![Desktop landing page of a recording studio](../assets/DailyUI004_Calculator.png)
+![Mobile screen design of a calculator in light and dark mode](../assets/DailyUI/DailyUI004_Calculator.png)
 
-**What:** Mobile screen design of a calculator in light and in dark mode in the style of [claymorphism](https://hype4.academy/articles/design/claymorphism-in-user-interfaces)
+**What:** Mobile screen design of a calculator in light and dark mode in my attempt at [claymorphism](https://hype4.academy/articles/design/claymorphism-in-user-interfaces)
 
 **Why:** As part of the #DailyUI Challenge, this was challenge 004 of 100 to create a calculator
+
+**How:** Figma
+---
+![Varous app icons](../assets/DailyUI/DailyUI005_AppIcon.png)
+
+**What:** App icons for *Serviceberry* (one of my projects, view it [here](https://pttn27.github.io/portfolio/projects/serviceberry-project)).
+
+**Why:** As part of the #DailyUI Challenge, this was challenge 005 of 100 to create an app icon.
 
 **How:** Figma

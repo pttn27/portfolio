@@ -22,6 +22,8 @@ I was mostly involved in the UI process - coming up with the color palette, font
 
 ## Process
 ---
+### Design Thinking
+
 Research - Define - Ideate - Prototype - Iterate
 
 ## Research
