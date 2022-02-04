@@ -7,7 +7,7 @@ weight: 2
 
 ## Designs
 
-![Mobile screen design of a pet adoption app](../assets/DailyUI001_SignUp.png)
+![Mobile screen design of a pet adoption app](../assets/DailyUI/DailyUI001_SignUp.png)
 
 <!--  
 <figure>
