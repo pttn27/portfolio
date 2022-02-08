@@ -50,10 +50,19 @@ weight: 2
 **How:** Figma
 
 ---
-![Varous app icons](../assets/DailyUI/DailyUI005_AppIcon.png)
+![Various app icons](../assets/DailyUI/DailyUI005_AppIcon.png)
 
 **What:** App icons for *Serviceberry* (one of my projects, view it [here](https://pttn27.github.io/portfolio/projects/serviceberry-project))
 
 **Why:** As part of the #DailyUI Challenge, this was challenge 005 of 100 to create an app icon
+
+**How:** Figma
+
+---
+![Mobile screen design of user profile](../assets/DailyUI/DailyUI006_UserProfile.png)
+
+**What:** Mobile screen design of user profile in a social networking platform to showcase and discover creative work
+
+**Why:** As part of the #DailyUI Challenge, this was challenge 006 of 100 to create a user profile
 
 **How:** Figma
