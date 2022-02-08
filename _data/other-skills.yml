@@ -3,11 +3,11 @@
   color: warning
 
 - name: Sketch
-  percentage: 60
+  percentage: 70
   color: peri
 
 - name: Figma
-  percentage: 60
+  percentage: 70
   color: info
 
 - name: Adobe Illustrator

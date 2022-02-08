@@ -14,7 +14,7 @@ The goal of the project is to implement a prototype, to test, and present the ou
 
 I was actively involved in almost every part of the process, especially when creating personas, their respective scenarios, and the development of the functionality of the gadget. Furthermore, I shot and edited the demo video for our physical prototype.
 
-**Methods:** Brainstorming, Field studies, Interviews, Stakeholder diagrams, Creating personas, Scenarios, Storyboard, Wireframes, Prototyping, Usability tests
+**Methods:** Brainstorming, Field studies, Interviews, Stakeholder diagrams, Personas, Scenarios, Storyboard, Wireframes, Prototyping, Usability tests
 
 **Tools:**  Adobe Illustrator, Adobe Premiere
 
