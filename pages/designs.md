@@ -59,10 +59,10 @@ weight: 2
 **How:** Figma
 
 ---
-![Mobile screen design of user profile](../assets/DailyUI/DailyUI006_UserProfile.png)
+![Mobile screen design of user profile and the settings](../assets/DailyUI/DailyUI006007_UserProfileSettings.png)
 
-**What:** Mobile screen design of user profile in a social networking platform to showcase and discover creative work
+**What:** Mobile screen design of user profile in a social networking platform to showcase and discover creative work + settings of the user profile
 
-**Why:** As part of the #DailyUI Challenge, this was challenge 006 of 100 to create a user profile
+**Why:** As part of the #DailyUI Challenge, this was challenge 006 and 007 of 100 to create a user profile and settings
 
 **How:** Figma
