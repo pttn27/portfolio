@@ -7,7 +7,7 @@ description: This is a project run by two friends and me, currently on hold due 
 
 ![Serviceberry](../assets/Serviceberry/SB_Titelbild.png)
 
-## Background information
+## Summary
 ---
 **+Ongoing project - currently on hold+**
 
