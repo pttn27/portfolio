@@ -7,7 +7,7 @@ description: This was a university group project in the module called "User Inte
 
 ![Title of the project: Smart gadget to foster a healthier lifestyle](../assets/UIE/UIE_Projekteintrag1.png)
 
-## Background information
+## Summary
 ---
 As part of the coursework *User Interface Engineering*, a concept for a smart gadget to support people in adopting a healthier lifestyle is to be developed. The project group of five students with backgrounds in either computer science or psychology. <br>
 The goal of the project is to implement a prototype, to test, and present the outcome within one semester. The applied method for the workflow is the scenario-based design by Rosson and Carroll, and encompasses an analysis phase, a design phase, and a prototype and evaluation phase.
