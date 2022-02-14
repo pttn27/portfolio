@@ -119,7 +119,7 @@ We sketched out our low-fidelity prototype and imagined our gadget to like the f
 ![Storyboard](../assets/UIE/sketchPrototype.png)
 
 ### Screen design prototype
-After further development, our high-fidelity prototype looks like this:
+After further development, our high-fidelity prototype looked like this:
 {% capture carousel_images %}
 ../assets/UIE/UIEPrototype1.png
 ../assets/UIE/UIEPrototype2.png
