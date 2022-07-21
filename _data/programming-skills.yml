@@ -1,9 +1,9 @@
 - name: HTML/CSS
-  percentage: 70
+  percentage: 60
   color: danger
 
 - name: JS
-  percentage: 40
+  percentage: 30
   color: 
 
 #  secondary = grau / success = grün / danger = rot / warning = gelb / info = türkis/ light = nichts / dark = schwarz (choose one only, default is primary = blau)
