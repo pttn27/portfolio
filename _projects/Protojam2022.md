@@ -58,7 +58,12 @@ On our last day, we quickly did wireframes before transforming them into prototy
 
 <figure>
   <img src="../assets/Protojam2022/Wireframes.png" alt="Lo-Fi Wireframes">
-  <figcaption style="text-align: center; color: #6c757d;">Lo-Fi Wireframesp</figcaption>
+  <figcaption style="text-align: center; color: #6c757d;">Lo-Fi Wireframes</figcaption>
+</figure>
+
+<figure>
+  <img src="../assets/Protojam2022/Prototype.png" alt="Hi-Fi Prototype">
+  <figcaption style="text-align: center; color: #6c757d;">Hi-Fi Prototype</figcaption>
 </figure>
 
 The designs can be viewed in detail [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
