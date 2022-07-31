@@ -1,5 +1,5 @@
 ---
-name: Designathon: ProtoJam 2022
+name: Designathon - ProtoJam 2022
 tools: [Figma, FigJam]
 image: ../assets/Serviceberry/SB_Projektbild.png
 description: Design Hackathon organized and hosted by Ada’s Team of University of Alberta
@@ -28,7 +28,7 @@ There were three challenges given and our team of five decided to **redesign a d
 ---
 We were given a problem brief (see below) for our challenge and tried to incorporate as many desired features as possible: **Log In/Register, Dashboard, Library, and Admin Access.**
 
-![Design Problem Brief](../assets/Serviceberry/Design Problem Brief.png.png)
+![Design Problem Brief](../assets/Protojam2022/DesignProblemBrief.png)
 
 ## Day 1: Research, Define
 ---
@@ -38,7 +38,9 @@ Since we were given a problem brief, we did not spent much time on discussing wh
 
 Given the time difference, the North American part of the team brainstormed and started to define the problems and tasks in a FigJam document. We chose this platform because of its simple-to-use interface, different tools (FigJam and Figma), and the collaboration function.
 
-[Link](https://www.figma.com/file/xidOYYvNfcchLMPbiisNb9/Brainstorming-ProtoJam?node-id=0%3A1){:target="_blank"}
+![Brainstorming](../assets/Protojam2022/BrainstormingProtoJam.png)
+
+[Link to the file](https://www.figma.com/file/xidOYYvNfcchLMPbiisNb9/Brainstorming-ProtoJam?node-id=0%3A1){:target="_blank"}
 
 ## Day 2: Define, Ideate
 ---
@@ -46,11 +48,15 @@ The second day (and also the only full day we had) I spent catching up on worksh
 
 We used FigJam to create a user flow diagram and assigned responsibilities to wireframe our initial low-fidelity prototypes in Figma during our meetings. In Figma, I also started building a design system and improve on the one that was already given.
 
-[Link](https://www.figma.com/file/IZbzbKXnqXkRSqk1KCFRqf/User-Flow?node-id=0%3A1){:target="_blank"}
+![User Flow](../assets/Protojam2022/ProtojamUserFlow.png)
+
+[Link to the file](https://www.figma.com/file/IZbzbKXnqXkRSqk1KCFRqf/User-Flow?node-id=0%3A1){:target="_blank"}
 
 ## Day 3: Prototype
 ---
 On our last day, we quickly did wireframes before transforming them into prototypes. Due to the time difference, we could not work on the challenge simultaneously which caused some inconsistencies. But we tried to keep the designs steady and fulfill all the requirements. With a little extra time on our hand, some of us incorporated a few extra functions. After submitting our work to Ada‘s team, we could only wait for the results.
+
+{% include elements/figure.html image="../assets/Protojam2022/Wireframes.png" caption="Lo-Fi Wireframes" %}
 
 The designs can be viewed in detail [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
 
@@ -67,10 +73,7 @@ The time factor most definitely was the biggest challenge. To create a whole new
 
 ### Improvements
 
-Communication is an aspect that can be improved (from all sides). I think an assigned leader who allocates tasks and makes suggestions on how to proceed further, would’ve been a great asset to our team.
-
+Communication is an aspect that can be improved (from all sides). I think an assigned leader who allocates tasks and makes suggestions on how to proceed further, would’ve been a great asset to our team. <br>
 Also, with a little better time management I would’ve loved to build a clickdummy with our design to gain a better insight to our prototype for people who are not familiar with it.
 
-The whole Figma file can be viewed here:
-
-[https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2)
+The whole Figma file can be viewed [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
