@@ -1,6 +1,6 @@
 ---
 name: Designathon - ProtoJam 2022
-tools: [Figma, FigJam, Design Thinkinh]
+tools: [Figma, FigJam, Design Thinking]
 image: https://www.protojam.ca/static/media/logo_horizontalpurple.9be0e17d20900b2c1bab5716d743eee5.svg
 description: Design Hackathon organized and hosted by Ada’s Team of University of Alberta
 ---
