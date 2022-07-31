@@ -1,11 +1,11 @@
 ---
 name: Designathon - ProtoJam 2022
-tools: [Figma, FigJam]
-image: ../assets/Serviceberry/SB_Projektbild.png
+tools: [Figma, FigJam, Design Thinkinh]
+image: https://www.protojam.ca/static/media/logo_horizontalpurple.9be0e17d20900b2c1bab5716d743eee5.svg
 description: Design Hackathon organized and hosted by Ada’s Team of University of Alberta
 ---
 
-![Serviceberry](https://www.protojam.ca/static/media/logo_horizontalpurple.9be0e17d20900b2c1bab5716d743eee5.svg)
+![Protojam](https://www.protojam.ca/static/media/logo_horizontalpurple.9be0e17d20900b2c1bab5716d743eee5.svg)
 
 ## Summary
 ---
@@ -56,7 +56,10 @@ We used FigJam to create a user flow diagram and assigned responsibilities to wi
 ---
 On our last day, we quickly did wireframes before transforming them into prototypes. Due to the time difference, we could not work on the challenge simultaneously which caused some inconsistencies. But we tried to keep the designs steady and fulfill all the requirements. With a little extra time on our hand, some of us incorporated a few extra functions. After submitting our work to Ada‘s team, we could only wait for the results.
 
-{% include elements/figure.html image="../assets/Protojam2022/Wireframes.png" caption="Lo-Fi Wireframes" %}
+<figure>
+  <img src="../assets/Protojam2022/Wireframes.png" alt="Lo-Fi Wireframes">
+  <figcaption style="text-align: center; color: #6c757d;">Lo-Fi Wireframesp</figcaption>
+</figure>
 
 The designs can be viewed in detail [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
 
