@@ -5,7 +5,7 @@ image: ../assets/Serviceberry/SB_Projektbild.png
 description: Design Hackathon organized and hosted by Ada’s Team of University of Alberta
 ---
 
-![Serviceberry](../assets/Serviceberry/SB_Titelbild.png)
+![Serviceberry](https://www.protojam.ca/static/media/logo_horizontalpurple.9be0e17d20900b2c1bab5716d743eee5.svg)
 
 ## Summary
 ---
@@ -76,4 +76,4 @@ The time factor most definitely was the biggest challenge. To create a whole new
 Communication is an aspect that can be improved (from all sides). I think an assigned leader who allocates tasks and makes suggestions on how to proceed further, would’ve been a great asset to our team. <br>
 Also, with a little better time management I would’ve loved to build a clickdummy with our design to gain a better insight to our prototype for people who are not familiar with it.
 
-The whole Figma file can be viewed [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
+The whole Figma file can be viewed [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
