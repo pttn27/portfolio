@@ -83,5 +83,3 @@ The time factor most definitely was the biggest challenge. To create a whole new
 
 Communication is an aspect that can be improved (from all sides). I think an assigned leader who allocates tasks and makes suggestions on how to proceed further, would’ve been a great asset to our team. <br>
 Also, with a little better time management I would’ve loved to build a clickdummy with our design to gain a better insight to our prototype for people who are not familiar with it.
-
-The whole Figma file can be viewed [here](https://www.figma.com/file/qe6XXHLXt3xlOWX9r0gnI7/UXbusters-ProtoJam-Design?node-id=7%3A2).
