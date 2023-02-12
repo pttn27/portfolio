@@ -6,10 +6,6 @@
   percentage: 70
   color: info
 
-- name: Sketch
-  percentage: 50
-  color: peri  
-
 - name: Adobe Illustrator
   percentage: 50
   color: success
