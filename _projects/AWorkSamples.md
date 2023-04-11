@@ -37,6 +37,7 @@ My landing page designs can be viewed in the image carousel below:
 ../assets/WorkSamples/Beethoven.png
 ../assets/WorkSamples/Levio.png
 ../assets/WorkSamples/Z30.png
+../assets/WorkSamples/LeVillage.png
 ../assets/WorkSamples/Teichwiesen.png
 {% endcapture %}
 {% include elements/carousel.html %}
@@ -46,7 +47,8 @@ For a closer look at these designs, please click the following links:
 [Design 1](../assets/WorkSamples/Beethoven.png){:target="_blank"}  ● 
 [Design 2](../assets/WorkSamples/Levio.png){:target="_blank"} ● 
 [Design 3](../assets/WorkSamples/Z30.png){:target="_blank"} ● 
-[Design 4](../assets/WorkSamples/Teichwiesen.png){:target="_blank"}
+[Design 4](../assets/WorkSamples/LeVillage.png){:target="_blank"} ● 
+[Design 5](../assets/WorkSamples/Teichwiesen.png){:target="_blank"}
 
 ## Retrospective and Improvements
 ---
