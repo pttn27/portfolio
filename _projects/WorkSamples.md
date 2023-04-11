@@ -1,11 +1,11 @@
 ---
 name: Landing Pages
 tools: [WordPress, Elementor, HTML, CSS, PhotoShop, Illustrator, UI Design]
-image: ../assets/ScoutWork/TeaserSW.png
-description: Those are work samples that I have created during the last 6 months
+image: ../assets/WorkSamples/TeaserSW.png
+de^ription: Those are work samples that I have created during the past 6 months
 ---
 
-![Image teaser of landing pages](../assets/ScoutWork/ScoutWork.png)
+![Image teaser of landing pages](../assets/WorkSamples/SWork.png)
 
 ## Summary
 ---
@@ -31,22 +31,22 @@ Studying material of the customer > Building the landing page according to that 
 
 ## Outcome
 ---
-My landing page designs can be viewed here:
+My landing page designs can be viewed in the image carousel below:
 
 {% capture carousel_images %}
-../assets/ScoutWork/Beethoven.png
-../assets/ScoutWork/Levio.png
-../assets/ScoutWork/Z30.png
-../assets/ScoutWork/Teichwiesen.png
+../assets/WorkSamples/Beethoven.png
+../assets/WorkSamples/Levio.png
+../assets/WorkSamples/Z30.png
+../assets/WorkSamples/Teichwiesen.png
 {% endcapture %}
 {% include elements/carousel.html %}
 
-For a closer look at these designs, please click the links below:
+For a closer look at these designs, please click the following links:
 
-[Design 1](../assets/ScoutWork/Beethoven.png){:target="_blank"}
-[Design 2](../assets/ScoutWork/Levio.png){:target="_blank"}
-[Design 3](../assets/ScoutWork/Z30.png){:target="_blank"}
-[Design 4](../assets/ScoutWork/Teichwiesen.png){:target="_blank"}
+[Design 1](../assets/WorkSamples/Beethoven.png){:target="_blank"}  ● 
+[Design 2](../assets/WorkSamples/Levio.png){:target="_blank"} ● 
+[Design 3](../assets/WorkSamples/Z30.png){:target="_blank"} ● 
+[Design 4](../assets/WorkSamples/Teichwiesen.png){:target="_blank"}
 
 ## Retrospective and Improvements
 ---
