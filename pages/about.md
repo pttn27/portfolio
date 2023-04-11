@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hi, I am **Nga** :wave:, <!-- **{{ site.author.name }}** -->
+Hi, I am **Nga** :wave: <!-- **{{ site.author.name }}** -->
 
 I’m a Junior Visual Designer currently working at Scout24.
 
