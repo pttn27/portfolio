@@ -50,7 +50,7 @@ weight: 2
 **How:** Figma
 
 ---
-![Various app icons](../assets/DailyUI/DailyUI005_AppIcon.png)
+![Various app icons](../assets/DailyUI/DailyUI005_AppIcon.jpg)
 
 **What:** App icons for *Serviceberry* (one of my projects, view it [here](https://pttn27.github.io/portfolio/projects/serviceberry-project))
 

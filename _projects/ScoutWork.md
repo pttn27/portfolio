@@ -33,7 +33,7 @@ Studying material of the customer > Building the landing page according to that 
 ---
 My landing page designs can be viewed here:
 
-% capture carousel_images %}
+{% capture carousel_images %}
 ../assets/ScoutWork/Beethoven.png
 ../assets/ScoutWork/Levio.png
 ../assets/ScoutWork/Z30.png
