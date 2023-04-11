@@ -2,7 +2,7 @@
 name: Landing Pages
 tools: [WordPress, Elementor, HTML, CSS, PhotoShop, Illustrator, UI Design]
 image: ../assets/WorkSamples/TeaserSW.png
-de^ription: Those are work samples that I have created during the past 6 months
+description: Those are work samples that I have created during the past 6 months
 ---
 
 ![Image teaser of landing pages](../assets/WorkSamples/SWork.png)
