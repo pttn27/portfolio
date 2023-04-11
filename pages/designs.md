@@ -7,7 +7,7 @@ weight: 2
 
 ## Designs
 
-![Mobile screen design of a pet adoption app](../assets/DailyUI/DailyUI001_SignUp.png)
+![Mobile screen design of a pet adoption app](../assets/DailyUI/DailyUI001_SignUp.jpg)
 
 <!--  
 <figure>
@@ -23,7 +23,7 @@ weight: 2
 **How:** Adobe XD using a [UI Kit](https://www.behance.net/gallery/62932019/Pawtastic-UI-Kit-for-Adobe-XD) by Meagan Fisher; view the prototype in more detail [here](https://xd.adobe.com/view/fdc58c32-f702-4884-bba4-3dd1b8906e9e-a896/)
 
 ---
-![Mobile screen design of a cart checkout of a clothing shop](../assets/DailyUI/DailyUI002_CreditCardCheckout_Dribbble.png)
+![Mobile screen design of a cart checkout of a clothing shop](../assets/DailyUI/DailyUI002_CreditCardCheckout_Dribbble.jpg)
 
 **What:** Mobile screen design of a cart checkout of a clothing shop
 
@@ -32,7 +32,7 @@ weight: 2
 **How:** Adobe XD; view the prototype in more detail [here](https://xd.adobe.com/view/e8308e2c-3e1f-4e9b-8703-7defe30ff5e9-bd63/)
 
 ---
-![Desktop landing page of a recording studio](../assets/DailyUI/DailyUI003_LandingPage.png)
+![Desktop landing page of a recording studio](../assets/DailyUI/DailyUI003_LandingPage.jpg)
 
 **What:** Desktop landing page of a recording studio
 
